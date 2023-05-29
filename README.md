@@ -1,4 +1,4 @@
-# drivethrurpg_book_viewer
+# game_deals_mobile
 
-A mobile application to view books from drivethrurpg
+A mobile application to view game deals of diffrent storefronts
 
